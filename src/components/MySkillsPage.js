@@ -116,6 +116,7 @@ const MySkillsPage = () => {
             <strong>I like to Design</strong>
             <ul>
               <li>Web Design</li>
+              <li>Mobile Design</li>
             </ul>
           </Description>
           <Description>
@@ -139,7 +140,7 @@ const MySkillsPage = () => {
           <Description>
             <strong>Skills</strong>
             <p>
-              Html, Css, Js, React, Bootstrap, Nodejs, Mongodb, Express and
+              Html, Css, JavaScript, React, Nodejs, Mongodb, Express and
               Typescript.
             </p>
           </Description>

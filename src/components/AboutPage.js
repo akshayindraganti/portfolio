@@ -88,16 +88,11 @@ const AboutPage = () => {
           <img src={astronaut} alt="spaceman" />
         </Spaceman>
         <Main>
-          I'm a FullStack developer from India. I love to create websites using
-          the most popular frameworks like React, Node, Express, MongoDB, etc.
-          <br />
-          <br />
-          I'm interested in logic building and problem solving. So, I took web
-          development as my passion and pursued javascript libraries and
-          framework .
-          <br />
-          <br />
-          Productively managing time and focus on one task at a time.
+          As a Full Stack developer from India, I enjoy using popular frameworks
+          such as React, Node, Express, and MongoDB to create websites. My
+          interests in logic building and problem solving led me to pursue web
+          development as a passion and specialize in JavaScript libraries and
+          frameworks.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />

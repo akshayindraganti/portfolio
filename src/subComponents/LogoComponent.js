@@ -9,7 +9,6 @@ const Logo = styled.h1`
     props.color === "dark" ? DarkTheme.text : DarkTheme.body};
   font-family: "Passions Conflict", cursive;
   text-transform: capitalize;
-
   position: fixed;
   left: 2rem;
   top: 2rem;

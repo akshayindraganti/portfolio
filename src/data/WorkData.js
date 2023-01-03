@@ -5,7 +5,7 @@ export const Work = [
     id: 1,
     name: "Wordle",
     description:
-      "Guess the word in six tries. Each guess must be a valid five-letter word. Hit the enter button to submit.",
+      "You have six attempts to guess a five-letter word. Make sure each guess is a valid word and press enter to submit.",
     tags: ["Json", "React"],
     demo: "https://wordle-aksin.vercel.app/",
     github: "https://github.com/AkshayIndraganti/wordle",
@@ -14,9 +14,9 @@ export const Work = [
     id: 2,
     name: "Jobify Website",
     description:
-      "Jobify is a new-age job tracking website . Through this website, we can track the status of jobs and storing data in mongodb.",
+      "Jobify is a modern job tracking website that allows you to track the status of jobs and store data in MongoDB.",
     tags: ["MongoDB", "Express", "React", "Node"],
-    demo: "https://jobify-aksin.herokuapp.com/",
+    demo: "https://jobify-alhb.onrender.com/",
     github: "https://github.com/AkshayIndraganti/jobify",
   },
   {
@@ -25,7 +25,7 @@ export const Work = [
     description:
       "Bookstore website is built on top of nodejs,expessjs,and ejs. To learn CRUD operations on mongodb.",
     tags: ["Nodejs", "Expressjs", "Ejs", "Mongodb"],
-    demo: "https://bookstore-aksin.herokuapp.com/",
+    demo: "https://bookstore-9rc0.onrender.com/",
     github: "https://github.com/AkshayIndraganti/Bookstore",
   },
   {
