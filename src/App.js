@@ -11,6 +11,7 @@ import MySkillsPage from "./components/MySkillsPage";
 import ErrorPage from "./components/ErrorPage";
 import { AnimatePresence } from "framer-motion";
 import SoundBar from "./subComponents/SoundBar";
+import Banner from "./subComponents/Banner";
 
 function App() {
   const location = useLocation();
@@ -18,6 +19,7 @@ function App() {
     <>
       <GlobalStyle />
       <ThemeProvider theme={lightTheme}>
+        <Banner />
         <SoundBar />
 
         {/* For framer-motion animation on page change! */}
