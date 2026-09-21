@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import styled, { keyframes, ThemeProvider } from "styled-components";
 import { DarkTheme } from "./Themes";
 import { motion } from "framer-motion";
@@ -77,7 +77,7 @@ const SKILLS = styled(NavLink)`
 `;
 
 const AboutPage = () => {
-  const [click, setClick] = useState(false);
+  const click = false;
   return (
     <ThemeProvider theme={DarkTheme}>
       <Box>

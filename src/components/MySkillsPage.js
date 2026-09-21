@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import styled, { ThemeProvider } from "styled-components";
 import { lightTheme } from "./Themes";
 import { motion } from "framer-motion";
@@ -99,7 +99,7 @@ const ABOUT = styled(NavLink)`
 `;
 
 const MySkillsPage = () => {
-  const [click, setClick] = useState(false);
+  const click = false;
   return (
     <ThemeProvider theme={lightTheme}>
       <Box>
