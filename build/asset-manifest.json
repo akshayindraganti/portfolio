@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.81f5027b.chunk.js",
-    "main.js.map": "/static/js/main.81f5027b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6779f3f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6779f3f9.js.map",
-    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
-    "static/js/2.496d0929.chunk.js": "/static/js/2.496d0929.chunk.js",
-    "static/js/2.496d0929.chunk.js.map": "/static/js/2.496d0929.chunk.js.map",
+    "main.css": "/static/css/main.58462fbc.css",
+    "main.js": "/static/js/main.0f144dcb.js",
+    "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
+    "static/media/profile-img.png": "/static/media/profile-img.89178d476dc716d7203a.png",
+    "static/media/spaceman.png": "/static/media/spaceman.5ec7fcfa9a803ead726c.png",
     "index.html": "/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
-    "static/js/2.496d0929.chunk.js.LICENSE.txt": "/static/js/2.496d0929.chunk.js.LICENSE.txt",
-    "static/media/profile-img.89178d47.png": "/static/media/profile-img.89178d47.png",
-    "static/media/spaceman.5ec7fcfa.png": "/static/media/spaceman.5ec7fcfa.png",
-    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/static/media/u-said-it-v13-1167.949cee7e.mp3"
+    "main.58462fbc.css.map": "/static/css/main.58462fbc.css.map",
+    "main.0f144dcb.js.map": "/static/js/main.0f144dcb.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6779f3f9.js",
-    "static/css/2.679831fc.chunk.css",
-    "static/js/2.496d0929.chunk.js",
-    "static/js/main.81f5027b.chunk.js"
+    "static/css/main.58462fbc.css",
+    "static/js/main.0f144dcb.js"
   ]
 }
